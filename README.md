@@ -1,2 +1,2 @@
 # tech-blog-config
-Tech Blog Config (Kustomize)
+Homepage Config for Gobongbap.com GitOps, with Kustomize
