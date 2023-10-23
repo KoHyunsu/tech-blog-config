@@ -2,11 +2,11 @@
     { 
         "op": "replace", 
         "path": "/spec/rules/0/host", 
-        "value": "www.gobongbap.com"
+        "value": "tech.seoul.kr"
     },
     { 
         "op": "replace", 
         "path": "/spec/tls/0/hosts/0", 
-        "value": "www.gobongbap.com"
+        "value": "tech.seoul.kr"
     }
 ]
