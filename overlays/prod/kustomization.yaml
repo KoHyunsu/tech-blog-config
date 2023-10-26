@@ -11,4 +11,4 @@ resources:
 - namespace.yaml
 images:
 - name: sce06147/gobongbap
-  newTag: 26a50a4a85b463e10094853f2988a59588660c3c
+  newTag: 27d69cc3823510a6857914321a007feee1f41b2c
